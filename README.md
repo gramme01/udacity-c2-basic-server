@@ -2,7 +2,7 @@
 
 This is a simple node-express server to explore and understand the Request-Response pattern.
 
-Important change! Another change!
+Important change!
 
 ***
 ## Getting Setup
